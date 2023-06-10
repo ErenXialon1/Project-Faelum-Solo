@@ -1,0 +1,290 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.24f1 (cf10dcf7010d) revision 13570268'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 24317 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/UNİTY/unity düzen/project faelum deneme3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62556
+Successfully changed project path to: C:/UNİTY/unity düzen/project faelum deneme3
+C:/UNİTY/unity düzen/project faelum deneme3
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [25084] Host "[IP] 192.168.1.63 [Port] 0 [Flags] 2 [Guid] 4180681504 [EditorId] 4180681504 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I0O73BG) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [25084] Host "[IP] 192.168.1.63 [Port] 0 [Flags] 2 [Guid] 4180681504 [EditorId] 4180681504 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I0O73BG) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 71.24 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.24f1 (cf10dcf7010d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/UNİTY/unity düzen/project faelum deneme3/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6009 MB
+    Driver:   31.0.15.3179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009292 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 77.32 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Domain Reload Profiling:
+	ReloadAssembly (619ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (417ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (96ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (243ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (77ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (103ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006068 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\UNİTY\unity düzen\project faelum deneme3\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UNİTY\unity düzen\project faelum deneme3\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 71.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.119 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1120ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (916ms)
+			LoadAssemblies (192ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (205ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (423ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (71ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (225ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3976 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (229.4 KB). Loaded Objects now: 4431.
+Memory consumption went from 153.8 MB to 153.6 MB.
+Total: 3.318900 ms (FindLiveObjects: 0.344300 ms CreateObjectMapping: 0.129100 ms MarkObjects: 2.695900 ms  DeleteObjects: 0.148500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 81603.241096 seconds.
+  path: Assets/Prefabs/Enemy4.prefab
+  artifactKey: Guid(521b81edc86a64f4095f550068d33b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy4.prefab using Guid(521b81edc86a64f4095f550068d33b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6117881f55cf315c84b2985220af9051') in 0.103028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.843554 seconds.
+  path: Assets/Prefabs/EnemyBase Variant.prefab
+  artifactKey: Guid(fcaedafbc915b644296b10eff596d058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemyBase Variant.prefab using Guid(fcaedafbc915b644296b10eff596d058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871730d6ee2aa423519ca2767783381b') in 0.013725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032669 seconds.
+  path: Assets/Prefabs/Enemy4.prefab
+  artifactKey: Guid(521b81edc86a64f4095f550068d33b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy4.prefab using Guid(521b81edc86a64f4095f550068d33b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba2882b9f45667f151ad7e483900afa') in 0.008089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.379071 seconds.
+  path: Assets/Prefabs/Enemy5.prefab
+  artifactKey: Guid(fcaedafbc915b644296b10eff596d058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy5.prefab using Guid(fcaedafbc915b644296b10eff596d058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1ce769c02ed31b0ed752afe1c3bb11') in 0.011525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.390800 seconds.
+  path: Assets/Prefabs/Enemy4.prefab
+  artifactKey: Guid(521b81edc86a64f4095f550068d33b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy4.prefab using Guid(521b81edc86a64f4095f550068d33b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c723f2cde2d3e932fa899e94750ea4b') in 0.012577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016442 seconds.
+  path: Assets/Prefabs/Enemy5.prefab
+  artifactKey: Guid(fcaedafbc915b644296b10eff596d058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy5.prefab using Guid(fcaedafbc915b644296b10eff596d058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af118c479d51d5dbca57146e09022236') in 0.010499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 254.053731 seconds.
+  path: Assets/Xentronica_sprites/Cenavar_vol5_gif2.png
+  artifactKey: Guid(74dab5b48f2c9e3479139edbae57b5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/Cenavar_vol5_gif2.png using Guid(74dab5b48f2c9e3479139edbae57b5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e80ea8a2a947dfd21e4c147b81acb71') in 0.035687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.695596 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_vol2_gif1.png
+  artifactKey: Guid(c665a960a989e4446a0a59577f2729aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_vol2_gif1.png using Guid(c665a960a989e4446a0a59577f2729aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61807c927874258f728ac48a5ebb8b48') in 0.016316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001671 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_vol2_gif5.png
+  artifactKey: Guid(e2b85b58547d5b643b415de90ae15330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_vol2_gif5.png using Guid(e2b85b58547d5b643b415de90ae15330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037055b17483116bdfe38ee067d8b5d4') in 0.013697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_vol2_gif6.png
+  artifactKey: Guid(733985f51ff4c404fa9f8625a5e79234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_vol2_gif6.png using Guid(733985f51ff4c404fa9f8625a5e79234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ec290dc725b8ecd289ab32bdc21339') in 0.018027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_vol2_gif4.png
+  artifactKey: Guid(07b46823996e3f945aee91110bb307ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_vol2_gif4.png using Guid(07b46823996e3f945aee91110bb307ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82eb177c994b9fc80e70398f63e2a6a') in 0.016516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.393601 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_gif2.png
+  artifactKey: Guid(d8c849f478ab2c940adff8dfc27c05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_gif2.png using Guid(d8c849f478ab2c940adff8dfc27c05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf74d6c56b6397aa076584864e9b8e8f') in 0.014445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000956 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_gif5.png
+  artifactKey: Guid(5d3de3ffb94562e4b9f70c001e5d9ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_gif5.png using Guid(5d3de3ffb94562e4b9f70c001e5d9ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a5e4d71d8782cebd38dc1bdf4bc026') in 0.018426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_gif4.png
+  artifactKey: Guid(213b6424223fbd547a9670950a91bf5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_gif4.png using Guid(213b6424223fbd547a9670950a91bf5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ddaeed1669a5fb7ea99f3bcdf06719') in 0.019172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_gif7.png
+  artifactKey: Guid(e3fcac9c1164cb14e9366888eb163e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_gif7.png using Guid(e3fcac9c1164cb14e9366888eb163e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91aa26f850a7027a4bab16e6798d5cf0') in 0.017673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.402541 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_gif2.png
+  artifactKey: Guid(d8c849f478ab2c940adff8dfc27c05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_gif2.png using Guid(d8c849f478ab2c940adff8dfc27c05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ffb238769cd23c11eb840ec2ecbf706') in 0.014583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_vol2_gif6.png
+  artifactKey: Guid(733985f51ff4c404fa9f8625a5e79234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_vol2_gif6.png using Guid(733985f51ff4c404fa9f8625a5e79234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c90eef77d923ecff5a9c09585ab11344') in 0.014127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_vol2_gif3.png
+  artifactKey: Guid(af4b5bb89fd904947baf678661e52242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_vol2_gif3.png using Guid(af4b5bb89fd904947baf678661e52242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b748e807ea1e93c5b4dad88e821581a') in 0.013376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_gif7.png
+  artifactKey: Guid(e3fcac9c1164cb14e9366888eb163e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_gif7.png using Guid(e3fcac9c1164cb14e9366888eb163e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc955f5d902f691dc5b65a7cda7129db') in 0.012394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Xentronica_sprites/CENAVAR_vol2_gif1.png
+  artifactKey: Guid(c665a960a989e4446a0a59577f2729aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Xentronica_sprites/CENAVAR_vol2_gif1.png using Guid(c665a960a989e4446a0a59577f2729aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1984fa16784b07f7c481fbe3eecf8ef4') in 0.012108 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
